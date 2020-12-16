@@ -1,6 +1,6 @@
 {
   "name": "ghost-adapter-s3",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ghost s3 adapter for Ghost version 3.2.0",
   "main": "index.js",
   "repository": "https://github.com/aea7/ghost-adapter-s3",
